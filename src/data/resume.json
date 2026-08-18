@@ -1,0 +1,47 @@
+{
+  "name": "John Frederick Ocampo",
+  "title": "Technical Support | Customer Support",
+  "summary": "Experienced in technical support and customer service, with a background supporting customers in an airline environment. Skilled in troubleshooting technical issues, resolving customer concerns, providing step-by-step assistance, and handling complex technical problems.",
+  "contact": {
+    "phone": "0975-996-8086",
+    "email": "john.frederick.b.ocampo@gmail.com",
+    "location": "Mandaluyong City",
+    "github": "",
+    "linkedin": ""
+  },
+  "education": {
+    "school": "LA Concepcion College",
+    "degree": "Bachelor of Science in Civil Engineering",
+    "status": "Undergraduate",
+    "years": "2020 - 2023"
+  },
+  "skills": [
+    "Technical Support",
+    "Troubleshooting",
+    "Issue Resolution",
+    "Problem-Solving",
+    "Customer Support",
+    "Escalation Management",
+    "Technical Issue Analysis",
+    "Customer Education",
+    "Documentation",
+    "Active Listening",
+    "Communication",
+    "Team Collaboration"
+  ],
+  "experience": [
+    {
+      "role": "Sr. Associate | Technical Support",
+      "company": "WNS Global Services Philippines",
+      "period": "2021 - 2024",
+      "description": "Troubleshot technical concerns by identifying the issue and guiding customers through step-by-step solutions. Handled complex technical issues and escalations while coordinating with internal support teams to reach a resolution. Documented customer interactions and resolutions."
+    },
+    {
+      "role": "Customer Service Representative | Technical Support",
+      "company": "Teleperformance",
+      "period": "2020 - 2021",
+      "description": "Provided technical support and troubleshooting for product, software, account, and connectivity issues. Diagnosed and resolved technical concerns through structured troubleshooting and step-by-step guidance."
+    }
+  ],
+  "languages": ["English", "Filipino"]
+}
